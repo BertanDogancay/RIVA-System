@@ -11,6 +11,13 @@ This project requires a lot of knowledge in different kind of areas. These areas
 - Personal domain with hosting service
 - Flutter 3.0
 
+## Languages Used:
+- Dart
+- C#
+- HTML
+- CSS
+- PHP
+
 **NOTE: Each of the items listed above has their own requirements.**
 
 <img align="left" width=200px height=400px src="https://user-images.githubusercontent.com/111835151/188008252-c1cf0d69-73e1-424c-9403-cbc15ba41776.gif"/>
