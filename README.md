@@ -16,7 +16,7 @@ This project requires a lot of knowledge in different kind of areas. These areas
 - C#
 - HTML
 - CSS
-- PHP
+- PHP1
 
 **NOTE: Each of the items listed above has their own requirements.**
 
